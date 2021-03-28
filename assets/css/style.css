@@ -94,7 +94,7 @@ h3 {
 }
 
 
-.benefit-img, .cost-image, .brand-img {
+.benefit-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
