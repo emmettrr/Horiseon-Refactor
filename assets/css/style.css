@@ -94,7 +94,7 @@ h3 {
 }
 
 
-.benefit-img {
+.benefit-img, .cost-image, .brand-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -109,7 +109,7 @@ h3 {
     color: #ffffff;
 }
 
-#img {
+#content-img, #management-img, #social-img {
     max-height: 200px;
 }
 
