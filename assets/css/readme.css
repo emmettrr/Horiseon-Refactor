@@ -14,3 +14,7 @@ h3 {
 .header {
     font-weight: bolder;
 }
+
+p {
+    font-size: 12px;
+}
