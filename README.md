@@ -8,7 +8,7 @@
     <div style="float:left;">
     Before Consolidation
     <div style="float:left;">
-    <img src="assets/images/Before-screenshot.PNG" class="Bscreenshot" alt="Screenshot">
+    <img src="assets/images/Before-screenshot.png" class="Bscreenshot" alt="Screenshot">
     </div>
 </section>
 
