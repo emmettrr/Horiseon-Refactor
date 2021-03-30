@@ -4,9 +4,7 @@
 
 <div>
 <p> Below is a video showing how the code flows more fluently compared to how the previous HTML was written. </p>
-<video style= "width:100%; height:auto; display:block" autoplay controls loop="loop">    
-    <source src="/assets/video/screen-record.mov" type="video/mov">
-    </video>
+<iframe width="1280" height="720" src="/assets/video/screen-record.mov" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p>To help clean up the HTML and CSS, I consolidated like-terms within CSS. Commits should reflect the before and after. Within the HTML, I've included comments that will be in green to reflect those changes as well.</p>
 
