@@ -7,8 +7,7 @@
 <video controls autoplay loop muted markdown="0">    
     <source src="/assets/video/screen-record.mov" type="video/mov">
     </video>
-
- 
+</div>
 <p>To help clean up the HTML and CSS, I consolidated like-terms within CSS. Commits should reflect the before and after. Within the HTML, I've included comments that will be in green to reflect those changes as well.</p>
 
 <section>
