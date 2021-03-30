@@ -5,7 +5,7 @@
 
 <h6> Below is a video showing how the code flows more fluently compared to how the previous HTML was written. </h6>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gAQ_Nsv44kQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![gif](https://github.com/emmettrr/Horiseon-Refactor/blob/master/assets/gif/Hnet-image.gif)
 
 <p>To help clean up the HTML and CSS, I consolidated like-terms within CSS. Commits should reflect the before and after. Within the HTML, I've included comments that will be in green to reflect those changes as well.</p>
 
