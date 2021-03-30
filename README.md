@@ -1,5 +1,12 @@
-<h1>Updates for Horiseon</h1>
+<link rel="stylesheet" href="./assets/css/readme.css">
 
-<p>To help clean up the HTML and CSS, I combined like-terms within both. A lot of similar code was in CSS so I combined those to clean up the CSS code itself. Commits should reflect the before and after. Within the HTML, I've included comments that will be in green to reflect those changes as well.</p>
+<h1 class="header">Updates for Horiseon</h1>
 
-<img src="assets/images/screenshot-for-readme.jpg" alt="">
+<p>To help clean up the HTML and CSS, I consolidated like-terms within CSS. Commits should reflect the before and after. Within the HTML, I've included comments that will be in green to reflect those changes as well.</p>
+
+<div>
+<h3>After Consolidation
+<img src="assets/images/Screenshot-for-readme.PNG" class="screenshot" alt="Screenshot">
+</div>
+
+<p> 

@@ -1,0 +1,16 @@
+body {
+    font-size: 14px;
+}
+
+h3 {
+    font-weight: bolder;
+}
+
+.screenshot {
+    height: 400px;
+    width: 500px;
+}
+
+.header {
+    font-weight: bolder;
+}
