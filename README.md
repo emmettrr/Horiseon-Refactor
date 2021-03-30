@@ -4,7 +4,7 @@
 
 <div>
 <p> Below is a video showing how the code flows more fluently compared to how the previous HTML was written. </p>
-<video controls autoplay>
+<video controls autoplay loop muted markdown="0">    
     <source src="/assets/video/screen-record.mov" type="video/mov">
     </video>
 
