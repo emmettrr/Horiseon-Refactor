@@ -1,29 +1,10 @@
-<link rel="stylesheet" href="./assets/css/readme.css">
+# Updates for Horiseon
 
-<h1 class="header">Horiseon</h1>
+1. Consolidated code within CSS with over 70 lines of code trimmed.
+2. Fixed links within nav to make work.
+3. Cleaned up HTML for a more sematic feel.
+4. Updated images to include an ALT tag for screen readers. 
 
+## Linked below is the website to show all functionality remained the same including working links.
 
-<h6> Below is a video showing how the code flows more fluently compared to how the previous HTML was written. </h6>
-
-![gif](https://github.com/emmettrr/Horiseon-Refactor/blob/master/assets/gif/Hnet-image.gif)
-
-<p>To help clean up the HTML and CSS, I consolidated like-terms within CSS. Commits should reflect the before and after. Within the HTML, I've included comments that will be in green to reflect those changes as well.</p>
-
-<section>
-    <div style="float:left;">
-    Before Consolidation
-    <div style="float:left;">
-    <img src="assets/images/Before-screenshot.png" class="Bscreenshot" alt="Screenshot">
-    </div>
-</section>
-
-<section>
-<div style="float:left;">
-After Consolidation
-<div style="float:left;">
-<img src="assets/images/Screenshot-for-readme.PNG" class="screenshot" alt="Screenshot">
-</div>
-
-<p> I successfully have consolidated over 70 lines of code within css. </p>
-
-</section>
+[Horiseon](https://emmettrr.github.io/Horiseon-Refactor/)
