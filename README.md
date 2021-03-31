@@ -8,6 +8,6 @@
 <br>
 &#x2611; Updated images to include an ALT tag for screen readers. 
 
-### Linked below is the website to show all functionality remained the same including working links.
+### Linked below is the website to show all functionality remained the **same** including working links.
 
 [Horiseon](https://emmettrr.github.io/Horiseon-Refactor/)
