@@ -72,6 +72,8 @@ a {
     margin-left: 20px;
 }
 
+/* applied same properties to same classes-3 classes moved into one*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,6 +84,7 @@ a {
     background-color: #2589bd;
 }
 
+/* combined image classes to consolidate code */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -93,12 +96,13 @@ h3 {
     text-align: center;
 }
 
+/* used same class to apply all 3 properties to same image class */
 .benefit-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* consolidated three classes into one row since all 3 have the same properties */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -108,6 +112,7 @@ h3 {
     color: #ffffff;
 }
 
+/* applied same properties to same image ids */
 #content-img, #management-img, #social-img {
     max-height: 200px;
 }
@@ -118,6 +123,7 @@ h3 {
     font-size: 36px;
 }
 
+/* changed to footer, removing the class */
 footer {
     padding: 30px;
     clear: both;
